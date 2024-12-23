@@ -19,7 +19,7 @@ Após instalar o Python, abra seu Prompt de Comando do Windows e digite $ pip in
 Após isso, em alguma IDE a sua escolha, abra o código. Ele originalmente aparecerá assim:
 ![image](https://github.com/user-attachments/assets/205ceb4d-3c85-4e56-8352-1a0161c6cee6)
 
-Na ultima linha do código, você vai encontrar o comando "bot.run('INSIRA SEU TOKEN AQUI')":
+Na ultima linha do código, você vai encontrar o comando "bot.run('INSIRA SEU TOKEN AQUI')":<br>
 ![image](https://github.com/user-attachments/assets/4698aee0-ed1b-4c50-919d-b1424c6f6096)
 
 Nessa linha, você vai substituir o código pelo token ID atual do bot criado.
