@@ -3,9 +3,9 @@
 Bot feito para ser usado no discord voltado para funções que agreguem a uma jogatina de RPG.
 
 Até sua versão final pretendo disponibilizar:
-1 - Comando para rolar multiplos dados de vários tipos.
-2 - Gerenciamento de personagem (nome, classe, raça, vida atual, mana/PE, inventário vão estar disponiveis e LvL/XP estarão disponiveis).
-3 - Campanhas pre-prontas pela comunidade ou por IA (Inteligência artificial).
+1 - Comando para rolar multiplos dados de vários tipos.<br>
+2 - Gerenciamento de personagem (nome, classe, raça, vida atual, mana/PE, inventário vão estar disponiveis e LvL/XP estarão disponiveis).<br>
+3 - Campanhas pre-prontas pela comunidade ou por IA (Inteligência artificial).<br>
 
 Mais opções para o bot aceitas, só enviar em algumas de minhas redes sociais disponiveis no perfil.
 
