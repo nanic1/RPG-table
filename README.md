@@ -27,4 +27,6 @@ Na ultima linha do código, você vai encontrar o comando "bot.run('INSIRA SEU T
 
 ![image](https://github.com/user-attachments/assets/4698aee0-ed1b-4c50-919d-b1424c6f6096)
 
-Nessa linha, você vai substituir o código pelo token ID atual do bot criado.
+Nessa linha, você vai substituir o código pelo token ID atual do bot criado e seu código estará pronto para ser usado.
+
+![image](https://github.com/user-attachments/assets/3a84ed00-4f49-4568-a90f-84dedae8f0cf)
