@@ -12,13 +12,13 @@ bot = commands.Bot(command_prefix="#", intents=intents)
 
 # Saudacoes do bot ao ficar online
 @bot.event
-async def online():
+async def on_ready():
     print('Bot online!')
 
 # Comando de oi no servidor (&oi)
 @bot.command()
 async def oi(crtl):
-    if crtl.author.display_name == 'nico':
+    if crtl.author.id == 812475243603296267:
         await crtl.send(f'Oiiiii mozinho!!!!!! Seu namorado ti mandou um beijo e disse que ama voce!')
     else:
         await crtl.send(f'Olá {crtl.author.display_name}!')
